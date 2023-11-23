@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Recuperacion_DA_EESA.MainPage">
+    <StackLayout>
+        <Frame BackgroundColor="ForestGreen" Padding="10" CornerRadius="10" HorizontalOptions="Center">
+            <Label Text="Calculadora de propinas" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Label Text="Vamos a calcular tu propina en tu restaurante" HorizontalTextAlignment="Center"/>
+
+        <Label Text="Monto total de las cuentas" />
+        <Entry x:Name="Totalcuenta" Placeholder="Monto total" Keyboard="Numeric" />
+        
+        <Label Text="Porcentaje de la propina" />
+        <Entry x:Name="Porcentaje" Placeholder="Solo el numero" Keyboard="Numeric" />
+        
+        <Label Text="Personas que comparten la cuenta" />
+        <Entry x:Name="Personas" Placeholder="Cantidad de personas" Keyboard="Numeric" />
+
+        <Button  Text="Calcular" Padding="15" HorizontalOptions="Center" BackgroundColor="Red" TextColor="White" CornerRadius="15"/>
+
+        <Label Text="Total a pagar" HorizontalOptions="Center"/>
+        <Entry x:Name="Resultado" IsReadOnly="True" />
+        
+        <Label Text="Propina" HorizontalOptions="Center"/>
+        <Entry x:Name="Propina" IsReadOnly="True" />
+        
+        <Label Text="Monto por persona" HorizontalOptions="Center"/>
+        <Entry x:Name="Monto" IsReadOnly="True" />
+    </StackLayout>
+</ContentPage>

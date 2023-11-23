@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UhZYVVzEwj8BZ8LDC8AA0zIimjsS/g4QL8S8UwqSzya2QneiHujuW2KIBIV/VSOQVEUohaV1wwpEws+9ZQeZAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cd08\\Desktop\\Recuperacion_DA_EESA\\Recuperacion_DA_EESA.iOS\\Recuperacion_DA_EESA.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cd08\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\cd08\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\cd08\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

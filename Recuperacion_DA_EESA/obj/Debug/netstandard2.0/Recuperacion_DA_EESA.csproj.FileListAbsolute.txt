@@ -1,0 +1,15 @@
+C:\Users\cd08\Desktop\Recuperacion_DA_EESA\Recuperacion_DA_EESA\bin\Debug\netstandard2.0\Recuperacion_DA_EESA.deps.json
+C:\Users\cd08\Desktop\Recuperacion_DA_EESA\Recuperacion_DA_EESA\bin\Debug\netstandard2.0\Recuperacion_DA_EESA.dll
+C:\Users\cd08\Desktop\Recuperacion_DA_EESA\Recuperacion_DA_EESA\bin\Debug\netstandard2.0\Recuperacion_DA_EESA.pdb
+C:\Users\cd08\Desktop\Recuperacion_DA_EESA\Recuperacion_DA_EESA\obj\Debug\netstandard2.0\Recuperacion_DA_EESA.csproj.AssemblyReference.cache
+C:\Users\cd08\Desktop\Recuperacion_DA_EESA\Recuperacion_DA_EESA\obj\Debug\netstandard2.0\Recuperacion_DA_EESA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cd08\Desktop\Recuperacion_DA_EESA\Recuperacion_DA_EESA\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\cd08\Desktop\Recuperacion_DA_EESA\Recuperacion_DA_EESA\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\cd08\Desktop\Recuperacion_DA_EESA\Recuperacion_DA_EESA\obj\Debug\netstandard2.0\Recuperacion_DA_EESA.AssemblyInfoInputs.cache
+C:\Users\cd08\Desktop\Recuperacion_DA_EESA\Recuperacion_DA_EESA\obj\Debug\netstandard2.0\Recuperacion_DA_EESA.AssemblyInfo.cs
+C:\Users\cd08\Desktop\Recuperacion_DA_EESA\Recuperacion_DA_EESA\obj\Debug\netstandard2.0\Recuperacion_DA_EESA.csproj.CoreCompileInputs.cache
+C:\Users\cd08\Desktop\Recuperacion_DA_EESA\Recuperacion_DA_EESA\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\cd08\Desktop\Recuperacion_DA_EESA\Recuperacion_DA_EESA\obj\Debug\netstandard2.0\Recuperacion_DA_EESA.dll
+C:\Users\cd08\Desktop\Recuperacion_DA_EESA\Recuperacion_DA_EESA\obj\Debug\netstandard2.0\refint\Recuperacion_DA_EESA.dll
+C:\Users\cd08\Desktop\Recuperacion_DA_EESA\Recuperacion_DA_EESA\obj\Debug\netstandard2.0\Recuperacion_DA_EESA.pdb
+C:\Users\cd08\Desktop\Recuperacion_DA_EESA\Recuperacion_DA_EESA\obj\Debug\netstandard2.0\ref\Recuperacion_DA_EESA.dll
